@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate technologist, educator, and creat
 
 ### 📫 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/michael-joseph)  
-- 🛠 [Portfolio](https://mjoseph20.gthub.io)  
+- 🛠 [Portfolio](https://mjoseph20.github.io)  
 - ✉️ [Email](mailto:mjoseph2013@gmail.com)
 
 Feel free to explore my repositories and check out some of the exciting projects I've been working on. Contributions, feedback, and collaboration are always welcome!
