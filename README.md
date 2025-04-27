@@ -12,7 +12,9 @@ Welcome to my GitHub profile! I'm a passionate technologist, educator, and creat
 ---
 
 ### 🌱 Current Projects
-- *(Coming Soon!)*
+- IRDb - A web application that helps users track reality TV cast members with a searchable database of shows, episodes, and personalities. Built with Java, Spring Boot, MySQL, React, and AWS.
+  - Frontend: https://github.com/mjoseph20/capstone-frontend
+  - Backend: https://github.com/mjoseph20/capstone-backend
   
 ---
 
